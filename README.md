@@ -1,0 +1,4 @@
+arduindomo
+==========
+
+El objetivo del proyecto es integrar a la comunidad universitaria por medio del el uso de tecnologías libres fomentando  su filosofía , principios y  ventajas que tiene el hardware libre respecto al hardware propietario y sus aplicaciones en domótica  sobre un ambiente web , el proyecto buscar ir fortaleciendo las practicas de programación de microcontroladores y el uso de aplicaciones  sobre el modelo de internet TCP/IP en ambientes GNU Linux y sin el requisito de tener sólidos conocimientos en electrónica , de hecho es un proyecto que busca romper la brecha digital entre distintas áreas de ingenieria , artes y cultura. Aquellas personas  con conocimientos en electrónica puede llegar a integrar software de simulación , emulación , esquemáticos (PCB) y con la documentación accesible al público.
